@@ -1,0 +1,12 @@
+package com.StringNext;
+
+public class SubString {
+public static void main(String[] args) {
+	String str="java";
+	char ch=str.charAt(0);
+	String s1=str.substring(str.length()-1);
+	String s2=str.substring(1, str.length()-2);
+	System.out.println(s1+s2+ch);
+	
+}
+}

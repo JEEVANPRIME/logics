@@ -1,0 +1,10 @@
+package com.StringNext;
+
+public class SubString {
+public static void main(String[] args) {
+	String str="java is programming language";
+	String[] s1=str.split(" ");
+	
+	
+}
+}

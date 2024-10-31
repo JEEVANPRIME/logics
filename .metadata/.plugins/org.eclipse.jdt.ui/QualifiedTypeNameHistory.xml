@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.Number1.LastReverse.ReverseLast"/>
+    <fullyQualifiedTypeName name="com.Number1.FirstReverse.ReverseFirst"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.Number1.CheckEvenOdd.EvenOrOdd"/>
+    <fullyQualifiedTypeName name="com.Number1.LastSum.SumLast"/>
+    <fullyQualifiedTypeName name="javax.naming.spi.DirStateFactory.Result"/>
+    <fullyQualifiedTypeName name="com.Stringing.String_regex.OnlyDigits"/>
+    <fullyQualifiedTypeName name="com.Stringing.String_regex.OnlyLetters"/>
+    <fullyQualifiedTypeName name="com.Stringing.String_regex.SpaceToSplChar"/>
+    <fullyQualifiedTypeName name="com.Stringing.String_regex.MultiSpaceOne"/>
+    <fullyQualifiedTypeName name="com.Stringing.String_regex.VowelSpeficChar"/>
+    <fullyQualifiedTypeName name="com.Stringing.String_regex.StartsChar"/>
+    <fullyQualifiedTypeName name="com.Stringing.String_regex.EndsChar"/>
+    <fullyQualifiedTypeName name="com.Stringing.String_regex.SplitSpace"/>
+    <fullyQualifiedTypeName name="com.Stringing.CaseConversion.FirstCapital"/>
+    <fullyQualifiedTypeName name="com.Stringing.ASCIIManipulation.FreqOfEachWord"/>
+    <fullyQualifiedTypeName name="com.Stringing.ASCIIManipulation.MostFrequent"/>
+    <fullyQualifiedTypeName name="com.Stringing.ASCIIManipulation.LeastFrequent"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="boolean"/>
+    <fullyQualifiedTypeName name="com.TaskingTopic.Project"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.LayerInstantiationException"/>
+    <fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,9 @@
+package com.CollectionsTopic;
+
+import java.util.Scanner;
+
+public class RotateLeft {
+public static void main(String[] args) {
+	Scanner scn=new Scanner(System.in);
+}
+}

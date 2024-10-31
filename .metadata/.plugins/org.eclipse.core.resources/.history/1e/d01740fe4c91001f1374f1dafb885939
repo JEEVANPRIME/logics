@@ -1,0 +1,14 @@
+package com.Recurssion;
+
+public class PrintSumEven {
+
+	public static int even(int no) {
+		if(no<=0) {
+			return no;
+		}
+	}
+
+	public static void main(String[] args) {
+		System.out.println(even(5));
+	}
+}

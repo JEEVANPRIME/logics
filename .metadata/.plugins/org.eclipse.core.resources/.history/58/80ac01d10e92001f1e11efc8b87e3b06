@@ -1,0 +1,8 @@
+package com.StringNext;
+
+public class SubString {
+public static void main(String[] args) {
+	String str="java";
+	System.out.println(str.substring(str.length()-1));
+}
+}

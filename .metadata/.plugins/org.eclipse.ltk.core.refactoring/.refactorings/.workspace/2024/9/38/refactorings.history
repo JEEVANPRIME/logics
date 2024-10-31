@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;String_Varible&apos; to &apos;String_Variable&apos;&#x0D;&#x0A;- Original element: &apos;String_Varible&apos;&#x0D;&#x0A;- Renamed element: &apos;String_Varible&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;String_Varible&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=String_Varible" name="String_Variable" references="true" stamp="1726588940152" version="1.0"/>
+</session>

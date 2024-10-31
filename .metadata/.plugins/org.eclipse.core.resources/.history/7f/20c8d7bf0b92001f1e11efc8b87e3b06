@@ -1,0 +1,9 @@
+package com.CollectionsTopic;
+
+public class IntersectionArrays {
+public static void main(String[] args) {
+	int[] a1= {1,2,3,4,5};
+	int[] a2= {2,3,6,7,8};
+	
+}
+}

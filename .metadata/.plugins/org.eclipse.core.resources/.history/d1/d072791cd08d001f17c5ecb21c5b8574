@@ -1,0 +1,10 @@
+package com.MultiArrays;
+
+public class Dynamic {
+
+	public static void main(String[] args) {
+		int rowsize=3;
+		int colsize=3;
+		int[][] arr=new int[rowsize][colsize];
+	}
+}

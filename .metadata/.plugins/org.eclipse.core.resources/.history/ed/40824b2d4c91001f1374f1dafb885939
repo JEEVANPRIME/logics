@@ -1,0 +1,15 @@
+package com.Recurssion;
+
+public class PrintSumEven {
+	static int sum=0;
+	public static int even(int no) {
+		if(no%2==0) {
+			return sum+even(no-1);
+		}else {
+			
+		}
+	}
+public static void main(String[] args) {
+	
+}
+}
